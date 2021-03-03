@@ -80,7 +80,7 @@ Todo feedback e sugestão de melhoria é bem vindo, as issues ficarão abertas. 
 
 O acesso ao board se dará pelo link adicionado à dash de suporte (limitação para apenas admins será implementado no futuro). Conforme imagem.
 
-<img style='height: 100%; width: 100%; object-fit: contain' src="/img_readme/acesso_kanban.JPG">
+<img style='height: 100%; width: 100%; object-fit: contain' src="/OsticketKanban/img_readme/acesso_kanban.JPG">
 
 
 Os arquivos vinculados ao projeto estão dentro de `scp/kanban` (no momento há apenas um mock das divs a serem usadas pela implementação)
