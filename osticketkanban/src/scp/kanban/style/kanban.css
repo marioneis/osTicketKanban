@@ -1,0 +1,84 @@
+body{
+    background-image: url(../img/background_board.png);
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.board{
+    height: 100%;
+    width: 100%;
+    display: normal;
+    padding-bottom: 0px;
+    overflow-y: auto;   
+}
+
+.tituloColuna{
+    text-transform: uppercase;
+    text-align: center;
+    margin: auto;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.aberto{
+    float: left;
+    clear: right;
+    margin: 20px 10px 0px 10px;
+    border-radius: 5px;
+    background-color: #eaebed;
+    width: 300px;
+    padding-bottom: 0px;
+    padding-left: 6px;
+    min-height: calc(50% - 20px);
+    display: table;
+
+    
+}
+
+.Item{
+    float: left;
+    clear: right;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    background-color: white;
+    width: 300px;
+    height: 80px;
+    padding: 2px;    
+    display: block; 
+}
+
+
+.atendimento{
+    float: left;
+    clear: right;
+    margin: 20px 10px 0px 10px;
+    border-radius: 5px;
+    background-color: #eaebed;
+    width: 300px;
+    padding-bottom: 0px;
+    padding-left: 6px;
+    min-height: calc(50% - 20px);
+    display: table;
+}
+
+.encerrado{
+    float: left;
+    clear: right;
+    margin: 20px 10px 0px 10px;
+    border-radius: 5px;
+    background-color: #eaebed;
+    width: 300px;
+    padding-bottom: 0px;
+    padding-left: 6px;
+    min-height: calc(50% - 20px);
+    display: table;
+}
+
+
+.staffName{
+    text-align: right;
+    font-size: small;
+    font-weight: 500;
+    float: right;
+}
